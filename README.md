@@ -5,8 +5,8 @@
 
 Twenty years ago, on February 13th, 2002, Visual Studio .NET launched and the first version of the .NET development platform was released to the world. All month long we'll be celebrating!
 
-## Live Broadcast February 14, 9AM Pacific Time
-On February 14th starting at 9AM pacific on [www.dot.net](https://dot.net), we will broadcast a live 30-minute event featuring:
+## Live Broadcast February 14, 9:00AM Pacific Time
+On February 14th starting at 9AM pacific on [www.dot.net](https://dot.net), Microsoft will broadcast a live 30-minute event featuring:
 
 - Interviews with luminaries & Microsoft alumni
 - Stories from customers and developers building amazing things at cloud scale
