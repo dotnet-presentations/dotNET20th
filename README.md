@@ -21,7 +21,7 @@ Coming soon!
 ## Celebration on Twitter all month!
 **Share your stories, memorabilia, favorite features, etc. in picture or video form on Twitter using the hashtag [#dotNETLovesMe](https://twitter.com/hashtag/dotnetlovesme). Do it before February 14th and you might end up on the broadcast!**
 
-## Mod the dot-net bot
+## Mod the dotnet-bot
 We've added new birthday and party designs to [Mod-dotnet-bot.net](https://mod-dotnet-bot.net/). Create your own custom coding companion by modding the dotnet-bot and sharing it on Twitter as part of the celebration.
 
 [![dotnet-bot](https://mod-dotnet-bot.net/assets/images/gallery/anniversary-2.png)](https://mod-dotnet-bot.net/)
