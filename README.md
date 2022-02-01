@@ -3,7 +3,7 @@
 
 [![.NET 20 Years](Creative/Email/EmailBanner-Opt-1.png)](https://dot.net)
 
-Twenty years ago, on February 13th, 2002, Visual Studio .NET launched and the first version of the .NET development platform was officially released to the world. All month long we'll be celebrating this huge milestone. 
+Twenty years ago, on February 13th, 2002, Visual Studio .NET launched and the first version of the .NET development platform was officially released to the world. All month long we'll be celebrating this huge milestone.
 
 ## Live Broadcast February 14, 9:00AM Pacific Time
 On February 14th starting at 9AM pacific on [www.dot.net](https://dot.net), Microsoft will broadcast a live 30-minute event featuring:
@@ -11,14 +11,14 @@ On February 14th starting at 9AM pacific on [www.dot.net](https://dot.net), Micr
 - Interviews with luminaries & Microsoft alumni
 - Stories from customers and developers building amazing things at cloud scale
 - Memories of building .NET with [Scott Hunter](https://twitter.com/coolcsh), [Scott Hanselman](https://twitter.com/shanselman), and special guests
-- …and so much ❤ from some of our OSS contributors, MVPs, and .NET team members 
+- …and so much ❤ from OSS contributors, MVPs, and .NET team members
 
-Watch the stream or organize a watch party on Feb 14th 9AM PT and engage in the live chat during the broadcast on the homepage of [www.dot.net](https://dot.net). 
+Watch the stream or organize a watch party on February 14th 9:00AM Pacific Time and engage in the live chat during the broadcast on the homepage of [www.dot.net](https://dot.net).
 
 ## Celebration on Social
-Celebrate with the community throughout the month of February on social media. Microsoft, the .NET Foundation, and ecosystem partners are joining the celebration with digital swag, trivia games and more. Have a fond memory? Still have that PDC conference badge? Did you build something amazing? 
+Celebrate with the community throughout the month of February on social media. Microsoft, the .NET Foundation, and ecosystem partners are joining the celebration with digital swag, trivia games and more. Have a fond memory? Still have that PDC conference badge? Did you build something amazing?
 
-**Share your stories, memorabilia, favorite features, etc. in picture or video form on Twitter using the hashtag [#dotNETLovesMe](https://twitter.com/hashtag/dotnetlovesme). Do it before February 14th and you might end up on the broadcast!** 
+**Share your stories, memorabilia, favorite features, etc. in picture or video form on Twitter using the hashtag [#dotNETLovesMe](https://twitter.com/hashtag/dotnetlovesme). Do it before February 14th and you might end up on the broadcast!**
 
 ## Digital swag
 Grab desktop wallpapers and backgrounds as well as printable designs perfect for a the top of a cake!
