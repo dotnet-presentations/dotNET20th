@@ -21,7 +21,7 @@ Celebrate with the community throughout the month of February on social media. M
 **Share your stories, memorabilia, favorite features, etc. in picture or video form on Twitter using the hashtag [#dotNETLovesMe](https://twitter.com/hashtag/dotnetlovesme). Do it before February 14th and you might end up on the broadcast!**
 
 ## Digital swag
-Grab desktop wallpapers and backgrounds as well as printable designs perfect for a the top of a cake!
+Grab desktop wallpapers and backgrounds as well as printable designs perfect for the top of a cake!
 
 See the [`Swag`](Swag) folder.
 
