@@ -18,10 +18,10 @@ Watch the stream or organize a watch party on February 14th 9:00AM Pacific Time 
 ## Celebration on Social
 Celebrate with the community throughout the month of February on social media. Microsoft, the .NET Foundation, and ecosystem partners are joining the celebration with digital swag, trivia games and more. Have a fond memory? Still have that PDC conference badge? Did you build something amazing?
 
-**Share your stories, memorabilia, favorite features, etc. in picture or video form on Twitter using the hashtag [#dotNETLovesMe](https://twitter.com/hashtag/dotnetlovesme). Do it before February 14th and you might end up on the broadcast!**
+**Share your stories, memorabilia, favorite features, etc. in picture or video form on Twitter using the hashtag [#dotNETLovesMe](https://twitter.com/hashtag/dotnetlovesme).**
 
 ## Digital swag
-Grab desktop wallpapers and backgrounds as well as printable designs perfect for the top of a cake!
+Grab desktop wallpapers and backgrounds as well as printable designs perfect for the top of a cake or a t-shirt!
 
 See the [`Swag`](Swag) folder.
 
